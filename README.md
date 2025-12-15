@@ -7,3 +7,6 @@ Enviei o JSON { "id": 1, "mensagem": "Olá" }.
 Depois fiz um GET na rota /mensagens.
 
 Confirmei que a lista exibia todas as mensagens enviadas.
+
+
+Repositorio criado para avaliação de logica de programação de um proceso seletivo.
